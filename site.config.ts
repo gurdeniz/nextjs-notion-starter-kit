@@ -11,14 +11,13 @@ export default siteConfig({
   // basic site info (required)
   name: 'OP Digital Mobile Growth Consultancy',
   domain: 'op.digital',
-  author: 'Deniz Gur',
+  author: 'OP Digital',
 
   // open graph metadata (optional)
-  description: 'Example Next.js Notion Starter Kit Site',
+  description: 'Mobile App Growth Consultancy for mobile apps & games',
 
   // social usernames (optional)
-  twitter: 'transitive_bs',
-  github: 'transitive-bullshit',
+  twitter: 'opdenizgur',
   linkedin: 'fisch2',
   // mastodon: '#', // optional mastodon profile URL, provides link verification
   // newsletter: '#', // optional newsletter URL
