@@ -17,7 +17,7 @@ export default siteConfig({
   description: 'Mobile App Growth Consultancy for mobile apps & games',
 
   // social usernames (optional)
-  twitter: 'opdenizgur',
+  twitter: 'opdigitalagency',
   linkedin: 'company/opdigitalagency',
   // mastodon: '#', // optional mastodon profile URL, provides link verification
   // newsletter: '#', // optional newsletter URL
